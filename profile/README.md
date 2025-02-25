@@ -9,6 +9,12 @@ In today’s digital age, securing your online presence is more important than e
 With *I Am Security*, you can be confident that your digital assets are secure, whether you're browsing the web, managing sensitive data, or protecting your online accounts from unauthorized access.
 
 # Link Download - https://apkphat.io/i-am-security/
+# My Project
+
+![Minecraft Screenshot](https://github.com/DoLaLa123/.github/blob/main/m_img1.jpg?raw=true)
+
+Welcome to my project! Here’s an example image above.
+
 
 ### Key Features of I Am Security
 
