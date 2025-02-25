@@ -45,8 +45,4 @@ With cyber threats evolving rapidly, *I Am Security* offers the peace of mind yo
 
 Stay safe. Stay secure. With *I Am Security*, your digital world is in good hands.
 
-## Links
 
-- [Official Website of I Am Security](https://www.iamsecurity.com)
-- [Contact Support](https://www.iamsecurity.com/support)
-- [Follow Us on Social Media](https://www.instagram.com/iamsecurity)
